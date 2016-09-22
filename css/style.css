@@ -80,7 +80,7 @@ button:focus {
   margin: 0 auto;
   border: 0px dashed black;
   box-shadow: 2px 5px 5px gray;
-  
+  margin-bottom: 100px;
 
 
 }
